@@ -1,0 +1,11 @@
+[PASS] counts (4 sheets, 48 problems)
+[PASS] book-wide zero duplicates (48 unique of 48)
+[PASS] verifier agrees with every printed answer (48/48)
+[PASS] third-path eval agrees on expression problems (21 expression problems re-evaluated, 0 disagreements)
+[PASS] gate flags exactly the corrupted answer (1 flagged)
+[PASS] PDF is 612x792pt 
+[PASS] PDF pages = title + 4 sheets + key (>=6) (6 pages)
+[PASS] deterministic for fixed seed 
+[PASS] Arithmetic band stays in-band (kinds: ['expr', 'pct'])
+
+9/9 PASS
